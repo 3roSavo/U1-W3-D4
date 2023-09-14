@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+#tabellone {
+    margin:20px 10px;
+    background-color: rgb(227, 248, 248);
+}
+
+
+.cella {
+    display: inline-block;
+    padding:15px;
+}
+
+.cella:hover {
+    background-color: lightgrey;
+}
